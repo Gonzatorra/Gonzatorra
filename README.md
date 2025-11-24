@@ -7,7 +7,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Astroinformatics+enthusiast;Junior+AI+developer+at+Deusto+University" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Astroinformatics+enthusiast;Junior+AI+developer+at+Deusto" alt="Typing SVG" /></a>
+</p>
 <p align="center">
   <a href="https://github.com/Gonzatorra" alt="My GitHub">My GitHub</a>
 </p>
