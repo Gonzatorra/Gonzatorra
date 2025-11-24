@@ -41,12 +41,28 @@
 
 #### 🖥️ Frameworks
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+#### 🏗️ Frameworks
+
+<p align="center">
+  <!-- Deep Learning -->
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+  <!-- Web / APIs -->
+  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+
+  <!-- Big Data -->
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-%23EE8208.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
+
+  <!-- Computer Vision / Astronomy -->
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%231C1C1C.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+
+  <!-- Visualization / Dashboards -->
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%23000000.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img alt="Dashboards" src="https://img.shields.io/badge/Dashboards-%23007BFF.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
 
 #### 📚 Libraries
 
