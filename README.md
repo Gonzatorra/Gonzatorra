@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h3 align="center">
@@ -8,8 +8,13 @@
 </h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Astroinformatics+enthusiast;Junior+AI+developer+at+Deusto" alt="Typing SVG" /></a>
-<a href="https://github.com/Gonzatorra" alt="My GitHub">My GitHub</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Astroinformatics+enthusiast;Junior+AI+developer+at+Deusto" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gonzatorra">My GitHub</a>
 </p>
 
 ---
