@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/Gonzatorra">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Astroinformatics+enthusiast ;Junior+AI+developer+at+Deusto+University+%F0%9F%92%AC&font=Fira+Code&center=true&width=440&height=45" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Astroinformatics+enthusiast;Junior+AI+developer+at+Deusto+University+%F0%9F%92%AC&font=Fira+Code&center=true&width=440&height=45" alt="Typing SVG">
   </a>
 </p>
 
