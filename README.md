@@ -121,21 +121,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gonzatorra&theme=github_dark)
 
-</div>
-
-
-### 📈 Activity Graph
-
-[![Haizea's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gonzatorra&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Most Used Languages
-
-<div align="center">
-
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Gonzatorra&show_icons=true&locale=en&layout=compact&theme=radical)]()
-
-</div>
-
  
 ---
 
