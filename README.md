@@ -117,8 +117,7 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-   <li>haizea.g@opendeusto.es</li>
-  &nbsp;
+<li>haizea.g@opendeusto.es</li>
   <a href="https://www.linkedin.com/in/hgatorra">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -127,5 +126,3 @@
 ------
 
 Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
-
-Last Edited on: 26/02/2025
