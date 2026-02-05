@@ -117,7 +117,7 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<li>haizea.g@opendeusto.es</li>
+<p>haizea.g@opendeusto.es</p>
   <a href="https://www.linkedin.com/in/hgatorra">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
