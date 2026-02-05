@@ -7,12 +7,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Gonzatorra">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Astroinformatics+enthusiast;Junior+AI+developer+at+Deusto+%F0%9F%92%AC&font=Fira+Code&center=true&width=440&height=45" alt="Typing SVG">
-  </a>
-</p>
-
 
 <p align="center">
   <a href="https://github.com/Gonzatorra">My GitHub</a>
@@ -20,9 +14,10 @@
 
 ---
 
-<!--- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_-->
+- 👩🏻‍🎓 Fourth-year student in Computer Engineering and Data Science and Artificial Intelligence (University of Deusto).
+- 💬 Passionate about emerging technologies such as LLMs and intelligent agents.
+- 🚀 Highly enthusiastic about astroinformatics, particularly data visualization, and contributing to this field would be a personal dream.
+- 🤝🏼 I aspire to apply my skills to benefit society and create a meaningful, even if modest, impact.
 
 ## 🛠 &nbsp;Tech Stack
 
