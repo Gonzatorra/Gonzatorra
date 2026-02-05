@@ -114,24 +114,12 @@
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
-
-### 💳 Github Profile Summary Card
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gonzatorra&theme=github_dark)
-
- 
----
-
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-  <a href="mailto:haizea.g@opendeusto.es">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+   <li>haizea.g@opendeusto.es</li>
   &nbsp;
-  <a href="www.linkedin.com/in/hgatorra">
+  <a href="https://www.linkedin.com/in/hgatorra">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
